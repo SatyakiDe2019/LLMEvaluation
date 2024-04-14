@@ -4,7 +4,7 @@
 
 ## About this package
 
-This new solution will to evaluate and enhance Generative AI applications by using UpTrain, React & Python. It offers grading for over 20 preconfigured checks across language, code, and embedding scenarios. Additionally, it conducts root cause analysis for failures and provides detailed insights and solutions for improvement. This project is for the advanced Python & React developer, Gen AI & data Science Newbie.
+This new solution will to evaluate and enhance Generative AI applications by using UpTrain, React & Python. It offers grading for over 20 preconfigured checks across language, code, and embedding scenarios. This is an encapsulation layer on top of UpTrain to show-case it's capability with a different perspective. Additionally, it conducts root cause analysis for failures and provides detailed insights and solutions for improvement. This project is for the advanced Python & React developer, Gen AI & data Science Newbie.
 
 
 ## How to use this package
